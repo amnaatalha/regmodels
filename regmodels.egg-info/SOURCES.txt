@@ -1,0 +1,10 @@
+LICENSE.yaml
+README.md
+setup.py
+regmodels/__init__.py
+regmodels/regmodels.py
+regmodels.egg-info/PKG-INFO
+regmodels.egg-info/SOURCES.txt
+regmodels.egg-info/dependency_links.txt
+regmodels.egg-info/requires.txt
+regmodels.egg-info/top_level.txt

@@ -1,0 +1,36 @@
+Metadata-Version: 2.4
+Name: regmodels
+Version: 0.1.0
+Summary: A regression model comparison and visualization library with statistical analysis and theme support.
+Home-page: https://github.com/yourusername/regmodels
+Author: Amna Talha
+Author-email: your_email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.yaml
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: IPython
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# regmodels
+
+A simple yet powerful library to compare multiple regression models visually and statistically.
+
+## Installation
+```bash
+pip install regmodels

@@ -1,0 +1,10 @@
+
+---
+
+### **3️⃣ Build the Package**
+
+Run these commands in the terminal inside the main `regmodels/` folder:
+
+```bash
+pip install build twine
+python -m build
